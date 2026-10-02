@@ -1,0 +1,754 @@
+[
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H3",
+    "Common name": "ethylidyne"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "NiSi2",
+    "Common name": "nickel silicide"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "HCO2",
+    "Common name": "formate"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H3",
+    "Common name": "ethylidyne"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "NiSi2",
+    "Common name": "nickel silicide"
+  },
+  {
+    "Formula": "CoSi2",
+    "Common name": "cobalt silicide"
+  },
+  {
+    "Formula": "CoSi2",
+    "Common name": "cobalt silicide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "CH3O",
+    "Common name": "methoxy"
+  },
+  {
+    "Formula": "HCO2",
+    "Common name": "formate"
+  },
+  {
+    "Formula": "HCO2",
+    "Common name": "formate"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CCH3;CO",
+    "Common name": "ethylidyne; carbon monoxide"
+  },
+  {
+    "Formula": "CCH3;NO",
+    "Common name": "ethylidyne; nitric oxide"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CoSi2",
+    "Common name": "cobalt silicide"
+  },
+  {
+    "Formula": "NiSi2",
+    "Common name": "nickel silicide"
+  },
+  {
+    "Formula": "NiSi2",
+    "Common name": "nickel silicide"
+  },
+  {
+    "Formula": "PHx x<=3",
+    "Common name": "phosphine"
+  },
+  {
+    "Formula": "C2H3",
+    "Common name": "ethylidyne"
+  },
+  {
+    "Formula": "C6SH5",
+    "Common name": "thiophenol"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "NH3",
+    "Common name": "ammonia"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CoSi2",
+    "Common name": "cobalt silicide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H3",
+    "Common name": "ethylidyne"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CaF2",
+    "Common name": "calcium fluorite"
+  },
+  {
+    "Formula": "H2O",
+    "Common name": "water"
+  },
+  {
+    "Formula": "H2O",
+    "Common name": "water"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "CH3CN",
+    "Common name": "methyl cyanide"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "C2H3",
+    "Common name": "ethylidyne"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "C6H6;CO",
+    "Common name": "benzene; carbon monoxide"
+  },
+  {
+    "Formula": "OH",
+    "Common name": "hydroxyl"
+  },
+  {
+    "Formula": "N2",
+    "Common name": "dinitrogen"
+  },
+  {
+    "Formula": "Cs;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "Cs;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "K;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "CH3O",
+    "Common name": "methoxy"
+  },
+  {
+    "Formula": "CH3O",
+    "Common name": "methoxy"
+  },
+  {
+    "Formula": "C5H5N",
+    "Common name": "pyridine"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CS2",
+    "Common name": "carbon disulfide"
+  },
+  {
+    "Formula": "CS2",
+    "Common name": "carbon disulfide"
+  },
+  {
+    "Formula": "O2",
+    "Common name": "dioxygen"
+  },
+  {
+    "Formula": "O2",
+    "Common name": "dioxygen"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "PF3",
+    "Common name": "phosphorus trifluoride"
+  },
+  {
+    "Formula": "PF3",
+    "Common name": "phosphorus trifluoride"
+  },
+  {
+    "Formula": "PF3",
+    "Common name": "phosphorus trifluoride"
+  },
+  {
+    "Formula": "PF2",
+    "Common name": "phosphorus difluoride"
+  },
+  {
+    "Formula": "PF",
+    "Common name": "phosphorus monofluoride"
+  },
+  {
+    "Formula": "NH3",
+    "Common name": "ammonia"
+  },
+  {
+    "Formula": "CH3COO",
+    "Common name": "acetate"
+  },
+  {
+    "Formula": "CF3COO",
+    "Common name": "trifluoroacetate"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "N2",
+    "Common name": "nitrogen"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "C6H6; O",
+    "Common name": "benzene; oxygen"
+  },
+  {
+    "Formula": "C6H6;NO",
+    "Common name": "benzene;nitric oxide"
+  },
+  {
+    "Formula": "O;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;N2",
+    "Common name": "dinitrogen"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;CO",
+    "Common name": "carbon monoxide; oxygen"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "NH2",
+    "Common name": "amide"
+  },
+  {
+    "Formula": "NHx, x=2 or 1",
+    "Common name": "amide (NH2) or imide (NH)"
+  },
+  {
+    "Formula": "NH3",
+    "Common name": "ammonia"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "CH3O",
+    "Common name": "methoxy"
+  },
+  {
+    "Formula": "CH3S",
+    "Common name": "methyl thiolate"
+  },
+  {
+    "Formula": "SO2",
+    "Common name": "sulphur dioxide"
+  },
+  {
+    "Formula": "O;Cs;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "O;Cs;CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "N2",
+    "Common name": "dinitrogen"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CH3S-",
+    "Common name": "methanethiolate"
+  },
+  {
+    "Formula": "NH2CH2COOH",
+    "Common name": "glycine"
+  },
+  {
+    "Formula": "NC5H4CH3",
+    "Common name": "2-methyl-pyridine"
+  },
+  {
+    "Formula": "C5H5N",
+    "Common name": "pyridine"
+  },
+  {
+    "Formula": "NH3",
+    "Common name": "ammonia"
+  },
+  {
+    "Formula": "PF3",
+    "Common name": "phosphorus trifluoride"
+  },
+  {
+    "Formula": "CH3CCH",
+    "Common name": "propyne"
+  },
+  {
+    "Formula": "CF3CCH",
+    "Common name": "3,3,3-trifluoropropyne"
+  },
+  {
+    "Formula": "SO2",
+    "Common name": "sulphur dioxide"
+  },
+  {
+    "Formula": "SO3",
+    "Common name": "sulphur trioxide"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "CN",
+    "Common name": "cyanide"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C2H2",
+    "Common name": "acetylene"
+  },
+  {
+    "Formula": "C2H4",
+    "Common name": "ethylene"
+  },
+  {
+    "Formula": "O;OH",
+    "Common name": "oxygen; hydroxyl"
+  },
+  {
+    "Formula": "Si;Co",
+    "Common name": "cobalt silicide"
+  },
+  {
+    "Formula": "OH",
+    "Common name": "hydroxyl"
+  },
+  {
+    "Formula": "OH",
+    "Common name": "hydroxyl"
+  },
+  {
+    "Formula": "OH",
+    "Common name": "hydroxyl"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "O",
+    "Common name": "Oxygen"
+  },
+  {
+    "Formula": "NO",
+    "Common name": "nitric oxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "MgO",
+    "Common name": "magnesium oxide"
+  },
+  {
+    "Formula": "C28H24S4",
+    "Common name": "end capped quaterthiophene"
+  },
+  {
+    "Formula": "C4H4N2OS",
+    "Common name": "2-thiouracil"
+  },
+  {
+    "Formula": "C6H6",
+    "Common name": "benzene"
+  },
+  {
+    "Formula": "HoSi2",
+    "Common name": "holmium silicide"
+  },
+  {
+    "Formula": "DySi2",
+    "Common name": "Dysprosium disilicide"
+  },
+  {
+    "Formula": "DyGe2",
+    "Common name": "Dysprosium germanide"
+  },
+  {
+    "Formula": "DySi2",
+    "Common name": "Dysprosium disilicide"
+  },
+  {
+    "Formula": "H2O (D2O)",
+    "Common name": "water (deuterated)"
+  },
+  {
+    "Formula": "C6H6 (C6D6)",
+    "Common name": "benzene (deuterated)"
+  },
+  {
+    "Formula": "C",
+    "Common name": "carbon"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "C6H4",
+    "Common name": "benzyne"
+  },
+  {
+    "Formula": "CO3",
+    "Common name": "carbonate"
+  },
+  {
+    "Formula": "C6H5COO",
+    "Common name": "benzoate"
+  },
+  {
+    "Formula": "CH3",
+    "Common name": "methyl"
+  },
+  {
+    "Formula": "CH3 + I",
+    "Common name": "methyl and iodine"
+  },
+  {
+    "Formula": "CH3",
+    "Common name": "methyl"
+  },
+  {
+    "Formula": "SiH3,SiH",
+    "Common name": "silane (SiH4) fragments"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CN",
+    "Common name": "cyanide"
+  },
+  {
+    "Formula": "C6H6 and NO",
+    "Common name": "benzene and nitric oxide"
+  },
+  {
+    "Formula": "O and CO",
+    "Common name": "oxygen and carbon monoxide"
+  },
+  {
+    "Formula": "O and CO",
+    "Common name": "oxygen and carbon monoxide"
+  },
+  {
+    "Formula": "O and CO",
+    "Common name": "oxygen and carbon monoxide"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "NH3",
+    "Common name": "ammonia"
+  },
+  {
+    "Formula": "CO",
+    "Common name": "carbon monoxide"
+  },
+  {
+    "Formula": "CH3S-",
+    "Common name": "methylthiolate"
+  },
+  {
+    "Formula": "CH3S",
+    "Common name": "methylthiolate"
+  }
+]
