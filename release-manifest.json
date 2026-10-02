@@ -1,0 +1,134 @@
+{
+  "version": "0.1.0",
+  "scope": "Allowlisted researcher release; no Git history or Stony Brook numerical files",
+  "files": {
+    "README.md": {
+      "bytes": 2297,
+      "sha256": "1ccec35b6c5e4eff20149052d738f09fa191c0219958434611fcbafd5f94c37f"
+    },
+    "LICENSE": {
+      "bytes": 1036,
+      "sha256": "7a91b4754c06385f87b319313871b064d4d9e0dc1570ca94928b09fe74ed03ee"
+    },
+    "DATA_LICENSES.md": {
+      "bytes": 2247,
+      "sha256": "149195e167a1576b2d63448f38c8b4e42a9853a7673df108c951f96bea4fbb94"
+    },
+    "CITATION.cff": {
+      "bytes": 642,
+      "sha256": "9e713f2d661a34300588a736dc2cd7ae9611fc7b3bd36cce2deb9cf248450dab"
+    },
+    ".gitattributes": {
+      "bytes": 122,
+      "sha256": "2cb10646ad060e98c6b1c2e68f9cc7e3fd73551e629189838982a1a0ee431f81"
+    },
+    ".gitignore": {
+      "bytes": 127,
+      "sha256": "685fd2d3db66e1c0300f4655615ad1f03f0b5cd3b0f276e75c34d80cc9eeee3f"
+    },
+    ".github/workflows/check.yml": {
+      "bytes": 588,
+      "sha256": "f0372ad5221f6ebc1c5b2aac1e1190198cb56d3e40871c6884a60a6b02320461"
+    },
+    "surface_archive.py": {
+      "bytes": 13130,
+      "sha256": "2b6f712885471f773b08c00801de7b1b215fee10a7a370046ba2f730b7e791e5"
+    },
+    "leed_format.py": {
+      "bytes": 3941,
+      "sha256": "e37b3054b613e0738929462fe9bd98dcc5927ce71b33777fa7d7e97e6883aebc"
+    },
+    "inspect_ossd.py": {
+      "bytes": 2925,
+      "sha256": "f073c411a4845f053873734fd6b15049d5325aa44e5351cde69c106fa494a097"
+    },
+    "requirements.lock.txt": {
+      "bytes": 434,
+      "sha256": "4f0ca11d7f9640116b0c4283792265ce300feae7f6f5f48902d7d943d38f34dd"
+    },
+    "requirements-export.txt": {
+      "bytes": 57,
+      "sha256": "566e8c15010909858adba2d7dbb833245dbd53f0b71bab6c9f6fb76b999d2c65"
+    },
+    "docs/SOURCES.md": {
+      "bytes": 5004,
+      "sha256": "0244ed0752ffb72684eb7c2df0a8a18428dfcfa623e866a69274a9e74914f4ae"
+    },
+    "docs/USAGE.md": {
+      "bytes": 5604,
+      "sha256": "a9170ca3697367c0f75305aa26f10ff5b385cf4370cc5e309f8a7ffaa040f3f8"
+    },
+    "tests/test_archive.py": {
+      "bytes": 5878,
+      "sha256": "0bae27d96598d7450bdb749e7dfe9fdbd275e58b24375be94567f2e219cffe89"
+    },
+    "evidence/export-audit.json": {
+      "bytes": 7346,
+      "sha256": "2facb0b599944459933803c4f2413f58edd17efdd2d1847914aa74bc25d6e3ca"
+    },
+    "evidence/independent-check.json": {
+      "bytes": 1555,
+      "sha256": "c044a7d4f4d13a42186927915c04d4fbe9d26e2213f9a4f70c95a5ecec8c24b7"
+    },
+    "evidence/parser-corrections.json": {
+      "bytes": 1479,
+      "sha256": "4b18f66615f03dc1e6ef563214d144ca009557e88a685fb21e55d85895dbc7ca"
+    },
+    "evidence/edmond-metadata.json": {
+      "bytes": 11180,
+      "sha256": "0d591641fdc82ce3ad6083c422e6c0731fc3100900d1975ee8bacadfd29aba3d"
+    },
+    "evidence/release-validation.json": {
+      "bytes": 2372,
+      "sha256": "d594aa8647b1e3f9f8ca972818882040cb346d1004afc8e86e406fffc6562458"
+    },
+    "data/oSSD2003.mdb": {
+      "bytes": 4816896,
+      "sha256": "0311637a26d27dcb358735f8a34733e862b4f21a9968bb136150f4b7ae55e96b"
+    },
+    "data/2DCELLS.json": {
+      "bytes": 1465791,
+      "sha256": "f6890833a542fec7bae3b318834868a28b0bfa4b062b0b76495c67eeaae92a7a"
+    },
+    "data/ADSORBS.json": {
+      "bytes": 12654,
+      "sha256": "451c9f8380d3d15eaa81611c6bea5acb7072bb98854ba5fec904bd17947fb20a"
+    },
+    "data/BCOORDS.json": {
+      "bytes": 382627,
+      "sha256": "138086ed9bdb8d01fd227bf1d2b0efb3d2ef49b5ca3e73ee79741a5e6abf17aa"
+    },
+    "data/BONDS.json": {
+      "bytes": 1054903,
+      "sha256": "d4bb31a6f2648ee6d82f61697c34b3c7b959c6206c191226b104af9960cf775d"
+    },
+    "data/CHOICES.json": {
+      "bytes": 46878,
+      "sha256": "1952824f8c5821814e3ba54f2839d91ffe04abde8afec5ae4a64ab4e48b0ef75"
+    },
+    "data/COORDS.json": {
+      "bytes": 4908724,
+      "sha256": "910de09045480b228b48b08394c11b6fdd2f8e967bf86d4c04bdec8256d45e4c"
+    },
+    "data/EXPT.json": {
+      "bytes": 958485,
+      "sha256": "050e18dba4fc5d931b5981deec2323d260868eff40e4d24b31e06004de12825b"
+    },
+    "data/MAIN.json": {
+      "bytes": 1516374,
+      "sha256": "b6c2819154590907ca11e90b0cce20538ea75d742563e1b07cfe73c28252535b"
+    },
+    "data/QPARS.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "data/THEORY.json": {
+      "bytes": 972939,
+      "sha256": "d08cc02c15e458086f9bf84be5e2487261c16e246f2c057c3d0e80c3cec5d656"
+    },
+    "data/TYPES.json": {
+      "bytes": 357842,
+      "sha256": "afa967654db6b4b0b19ea9a0a5eef91108a58a5773b3861cecf0eb475b657246"
+    }
+  }
+}

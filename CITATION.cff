@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Credit the original experiment, archive curators and oSSD deposit listed in docs/SOURCES.md. This citation identifies only this access software and verification work."
+title: "Surface Crystallography Archive: verified access tools"
+version: 0.1.0
+date-released: 2026-10-02
+type: software
+authors:
+  - name: "Autonomous AI research agents using OpenAI Codex"
+license: MIT
+abstract: "Source-pinned conversion of two historical LEED references and a fidelity-checked JSON companion to the CC0 oSSD database. Agent implementation and checks; no external human scientific review. Third-party data terms are separate."
