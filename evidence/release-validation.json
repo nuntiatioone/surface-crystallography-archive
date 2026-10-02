@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "date_utc": "2026-10-02T17:22:59.605633+00:00",
+  "environment": {
+    "os": "Windows",
+    "python": "3.12.14",
+    "fresh_virtual_environment": true
+  },
+  "checks": [
+    {
+      "check": "offline-stdlib",
+      "exit_code": 0,
+      "log_sha256": "90cec12c7dd96da853241177cd025a40d3f987f9265ed9b27ec90c0771e47b38"
+    },
+    {
+      "check": "offline-optimized",
+      "exit_code": 0,
+      "log_sha256": "2c080d61840f786428c309a9c32f590bcfe96db560456e3594d204ec10952302"
+    },
+    {
+      "check": "install-pinned-dependencies",
+      "exit_code": 0,
+      "log_sha256": "a4878df6504e39b525eebcf805f30e78b539d72210972f07710e86b200f849b7"
+    },
+    {
+      "check": "rebuild-ossd",
+      "exit_code": 0,
+      "log_sha256": "6fcb23fc772773e3ed881ad3c8c6f87f5fde1d20a0e7d2bf7ad68b16281ef531"
+    },
+    {
+      "check": "convert-al210",
+      "exit_code": 0,
+      "log_sha256": "cbb29b5fd7c66a123efba17572118779ce0dad954a7453564cda9e24ed82b8d5"
+    },
+    {
+      "check": "verify-al210",
+      "exit_code": 0,
+      "log_sha256": "f76bc13a73dc2310cb44e3e291f9da4b74677bc37d434451ddd17a0c85b926a6"
+    },
+    {
+      "check": "convert-ni001",
+      "exit_code": 0,
+      "log_sha256": "1ed7c010d40b1b3f3d39a25385bb51712daa009e3008947b764b1b4c802330c8"
+    },
+    {
+      "check": "verify-ni001",
+      "exit_code": 0,
+      "log_sha256": "b61c3746cfc9c2a391808d4841d12e670232a80a631338d9191811329491114f"
+    }
+  ],
+  "unit_tests": 8,
+  "al210_pairs": 390,
+  "ni001_pairs": 701,
+  "source_code_sha256": {
+    "surface_archive.py": "2b6f712885471f773b08c00801de7b1b215fee10a7a370046ba2f730b7e791e5",
+    "leed_format.py": "e37b3054b613e0738929462fe9bd98dcc5927ce71b33777fa7d7e97e6883aebc",
+    "inspect_ossd.py": "f073c411a4845f053873734fd6b15049d5325aa44e5351cde69c106fa494a097",
+    "tests/test_archive.py": "0bae27d96598d7450bdb749e7dfe9fdbd275e58b24375be94567f2e219cffe89"
+  },
+  "isolation": "Tested allowlisted release copy in a fresh local virtual environment; no dependencies or code imported from the working project",
+  "network": "Only package installation used network; numerical conversion/verification used local hash-checked sources",
+  "github_ci": "Workflow prepared, not run on GitHub; Ubuntu/macOS execution unverified",
+  "scientific_scope": "Exact import/reproduction only; no scientific fit or external human review"
+}

@@ -1,0 +1,322 @@
+{
+  "status": "OK",
+  "data": {
+    "id": 181753,
+    "identifier": "3.STDUDV",
+    "persistentUrl": "https://doi.org/10.17617/3.STDUDV",
+    "protocol": "doi",
+    "authority": "10.17617",
+    "separator": "/",
+    "publisher": "Edmond",
+    "publicationDate": "2022-03-11",
+    "storageIdentifier": "54://10.17617/3.STDUDV",
+    "effectiveDatasetFileCountLimit": 500,
+    "datasetFileUploadsAvailable": 491,
+    "datasetType": "dataset",
+    "locks": [],
+    "latestVersion": {
+      "id": 1359,
+      "datasetId": 181753,
+      "datasetPersistentId": "doi:10.17617/3.STDUDV",
+      "datasetType": "dataset",
+      "storageIdentifier": "54://10.17617/3.STDUDV",
+      "versionNumber": 8,
+      "internalVersionNumber": 4,
+      "versionMinorNumber": 1,
+      "versionState": "RELEASED",
+      "latestVersionPublishingState": "RELEASED",
+      "deaccessionLink": "",
+      "lastUpdateTime": "2024-03-15T08:49:43Z",
+      "releaseTime": "2024-03-15T08:49:43Z",
+      "createTime": "2024-03-15T08:49:26Z",
+      "publicationDate": "2022-03-11",
+      "citationDate": "2022-03-11",
+      "effectiveDatasetFileCountLimit": 500,
+      "datasetFileUploadsAvailable": 491,
+      "license": {
+        "name": "CC0 1.0",
+        "uri": "http://creativecommons.org/publicdomain/zero/1.0",
+        "iconUri": "https:///assets.mpdl.mpg.de/licensebuttons.net/p/zero/1.0/88x31.png",
+        "rightsIdentifier": "CC0-1.0",
+        "rightsIdentifierScheme": "SPDX",
+        "schemeUri": "https://spdx.org/licenses/",
+        "languageCode": "en"
+      },
+      "fileAccessRequest": false,
+      "metadataBlocks": {
+        "citation": {
+          "displayName": "Citation Metadata",
+          "name": "citation",
+          "fields": [
+            {
+              "typeName": "title",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "oSSD download package"
+            },
+            {
+              "typeName": "author",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "authorName": {
+                    "typeName": "authorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Hermann, Klaus"
+                  },
+                  "authorIdentifier": {
+                    "typeName": "authorIdentifier",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "https://orcid.org/0000-0002-3861-3916"
+                  },
+                  "authorAffiliation": {
+                    "typeName": "authorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Fritz Haber Institute of the Max Planck Society"
+                  },
+                  "authorAffiliationId": {
+                    "typeName": "authorAffiliationId",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "https://ror.org/03k9qs827"
+                  },
+                  "authorAffiliationDepartment": {
+                    "typeName": "authorAffiliationDepartment",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Inorganic Chemistry"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "studyType",
+              "multiple": true,
+              "typeClass": "controlledVocabulary",
+              "value": [
+                "experimental"
+              ]
+            },
+            {
+              "typeName": "dsDescription",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "dsDescriptionValue": {
+                    "typeName": "dsDescriptionValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "N/A"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "keyword",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Surface  Crystallography"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "language",
+              "multiple": true,
+              "typeClass": "controlledVocabulary",
+              "value": [
+                "English"
+              ]
+            },
+            {
+              "typeName": "depositor",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Hermann, Klaus"
+            },
+            {
+              "typeName": "dateOfDeposit",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2022-03-11"
+            },
+            {
+              "typeName": "software",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "softwareName": {
+                    "typeName": "softwareName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "oSSD"
+                  },
+                  "softwareVersion": {
+                    "typeName": "softwareVersion",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "1.0"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "files": [
+        {
+          "description": "oSSD database in raw format for MS Access V. 2003 and later",
+          "label": "oSSD2003.mdb",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 1359,
+          "dataFile": {
+            "id": 248282,
+            "persistentId": "",
+            "filename": "oSSD2003.mdb",
+            "contentType": "application/msaccess",
+            "friendlyType": "application/msaccess",
+            "filesize": 4816896,
+            "description": "oSSD database in raw format for MS Access V. 2003 and later",
+            "storageIdentifier": "54://edmond-objstor-prod:18e4147f49f-877275857755",
+            "rootDataFileId": -1,
+            "md5": "f266fd475cb9f510a676e15ec1bfcdb6",
+            "checksum": {
+              "type": "MD5",
+              "value": "f266fd475cb9f510a676e15ec1bfcdb6"
+            },
+            "tabularData": false,
+            "creationDate": "2024-03-15",
+            "publicationDate": "2024-03-15",
+            "lastUpdateTime": "2024-03-15T08:49:43Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "oSSD interactive help file",
+          "label": "oSSD.chm",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 1359,
+          "dataFile": {
+            "id": 181845,
+            "persistentId": "",
+            "filename": "oSSD.chm",
+            "contentType": "application/vnd.ms-htmlhelp",
+            "friendlyType": "application/vnd.ms-htmlhelp",
+            "filesize": 502767,
+            "description": "oSSD interactive help file",
+            "storageIdentifier": "54://edmond-objstor-prod:17fb26d1c76-ca17c25026bf",
+            "rootDataFileId": -1,
+            "md5": "826992814b3f6c86131f315a4aea2eb9",
+            "checksum": {
+              "type": "MD5",
+              "value": "826992814b3f6c86131f315a4aea2eb9"
+            },
+            "tabularData": false,
+            "creationDate": "2022-03-22",
+            "publicationDate": "2022-03-22",
+            "lastUpdateTime": "2024-03-15T08:49:43Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "oSSD html help directory",
+          "label": "oSSD_htmlhelp.zip",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 1359,
+          "dataFile": {
+            "id": 181791,
+            "persistentId": "",
+            "filename": "oSSD_htmlhelp.zip",
+            "contentType": "application/zip",
+            "friendlyType": "ZIP Archive",
+            "filesize": 732180,
+            "description": "oSSD html help directory",
+            "storageIdentifier": "54://edmond-objstor-prod:17faba5cae6-7b477eb3b1e1",
+            "rootDataFileId": -1,
+            "md5": "dd3ca2d654d41cdd07869eca401b5b66",
+            "checksum": {
+              "type": "MD5",
+              "value": "dd3ca2d654d41cdd07869eca401b5b66"
+            },
+            "tabularData": false,
+            "creationDate": "2022-03-21",
+            "publicationDate": "2022-03-21",
+            "lastUpdateTime": "2024-03-15T08:49:43Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "oSSD installation package",
+          "label": "oSSD_Install.zip",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 1359,
+          "dataFile": {
+            "id": 181790,
+            "persistentId": "",
+            "filename": "oSSD_Install.zip",
+            "contentType": "application/zip",
+            "friendlyType": "ZIP Archive",
+            "filesize": 19142182,
+            "description": "oSSD installation package",
+            "storageIdentifier": "54://edmond-objstor-prod:17fa785a0ae-9bf53e3dc55b",
+            "rootDataFileId": -1,
+            "md5": "7b6a634bf5a45e6baace84cc0d2bade8",
+            "checksum": {
+              "type": "MD5",
+              "value": "7b6a634bf5a45e6baace84cc0d2bade8"
+            },
+            "tabularData": false,
+            "creationDate": "2022-03-20",
+            "publicationDate": "2022-03-20",
+            "lastUpdateTime": "2024-03-15T08:49:43Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "description": "Survis interactive help file",
+          "label": "survis5.chm",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 1359,
+          "dataFile": {
+            "id": 181846,
+            "persistentId": "",
+            "filename": "survis5.chm",
+            "contentType": "application/vnd.ms-htmlhelp",
+            "friendlyType": "application/vnd.ms-htmlhelp",
+            "filesize": 390379,
+            "description": "Survis interactive help file",
+            "storageIdentifier": "54://edmond-objstor-prod:17fb26d1d7b-12cfc5cf8dd5",
+            "rootDataFileId": -1,
+            "md5": "ac83850194e7a9ffb03af07d349a0011",
+            "checksum": {
+              "type": "MD5",
+              "value": "ac83850194e7a9ffb03af07d349a0011"
+            },
+            "tabularData": false,
+            "creationDate": "2022-03-22",
+            "publicationDate": "2022-03-22",
+            "lastUpdateTime": "2024-03-15T08:49:43Z",
+            "fileAccessRequest": false
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source": "Independent Microsoft Jet ODBC read of checksum-pinned original; values preserved verbatim, not scientific correction",
+  "corrections": [
+    {
+      "table": "EXPT",
+      "row": 391,
+      "column": "Comments-1",
+      "python": "MSRD=4x10^-3 \u0172 at 100K for R1=Cl-Ni1(nn) and",
+      "odbc": "MSRD=4x10^-3 \u00c5\u00b2 at 100K for R1=Cl-Ni1(nn) and",
+      "class_id": "28.17.5"
+    },
+    {
+      "table": "THEORY",
+      "row": 736,
+      "column": "Theory-2",
+      "python": "phase shifts; vibr ampl 0.0108 (surf), 0.0065\u01722 (subs)",
+      "odbc": "phase shifts; vibr ampl 0.0108 (surf), 0.0065\u00c5\u00b22 (subs)",
+      "class_id": "29.8.12a"
+    },
+    {
+      "table": "THEORY",
+      "row": 737,
+      "column": "Theory-2",
+      "python": "phase shifts; vibr ampl 0.0108 (surf), 0.0065\u01722 (subs)",
+      "odbc": "phase shifts; vibr ampl 0.0108 (surf), 0.0065\u00c5\u00b22 (subs)",
+      "class_id": "29.8.12b"
+    },
+    {
+      "table": "THEORY",
+      "row": 1101,
+      "column": "Theory-2",
+      "python": "Vor=-10eV; ms ampl=0.024\u0172(Cl), 0.012<(Ag)<0.048",
+      "odbc": "Vor=-10eV; ms ampl=0.024\u00c5\u00b2(Cl), 0.012<(Ag)<0.048",
+      "class_id": "47.17.1"
+    },
+    {
+      "table": "THEORY",
+      "row": 1140,
+      "column": "Theory-2",
+      "python": "Fourier transform): ms vibr. ampl.=0.004575\u0172",
+      "odbc": "Fourier transform): ms vibr. ampl.=0.004575\u00c5\u00b2",
+      "class_id": "47.54.1"
+    }
+  ]
+}
